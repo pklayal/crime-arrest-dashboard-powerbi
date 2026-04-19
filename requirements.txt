@@ -1,0 +1,21 @@
+# Core Tool
+Power BI Desktop
+
+# Data Processing (optional if used)
+Microsoft Excel
+
+# Programming (if extended)
+Python (optional)
+pandas
+numpy
+
+# Visualization (if extended outside Power BI)
+matplotlib
+seaborn
+
+# Data Source
+Data.gov API / CSV Download
+
+# Version Control
+Git
+GitHub
